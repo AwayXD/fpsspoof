@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fpsspoof",
+  "name": "Fps Spoofer",
+  "description": "what did u think it was gonna do lmao, make a cake?.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Away"],
+  "credits": "AwayXD",
+  "logoFile": "logo.jpg",
+  "screenshots": [],
+  "dependencies": []
+}
+]
